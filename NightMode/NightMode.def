@@ -1,0 +1,12 @@
+LIBRARY	"NightMode"
+;DESCRIPTION  'NightMode Windows CE Dynamic Link Library'
+EXPORTS
+   BLI_Close
+   BLI_Deinit
+   BLI_Init
+   BLI_IOControl
+   BLI_Open
+   BLI_Read
+   BLI_Seek
+   BLI_Write
+
